@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daryush-purmostafa
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning and studing for my purpose 
+- 🌱 I’m currently learning and studying for my purpose 
 - 📫 you can reach my by email: Daryush.purmostafa@gmail
 
 <!---
